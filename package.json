@@ -1,0 +1,22 @@
+{
+  "name": "make-button-module",
+  "version": "1.0.0",
+  "description": "Create button element",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gaviobm1/make-button-module.git"
+  },
+  "keywords": [
+    "button"
+  ],
+  "author": "Gavin O Brien",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Gaviobm1/make-button-module/issues"
+  },
+  "homepage": "https://github.com/Gaviobm1/make-button-module#readme"
+}
